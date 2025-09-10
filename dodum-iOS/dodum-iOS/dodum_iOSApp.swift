@@ -1,14 +1,14 @@
 //
-//  testApp.swift
-//  test
+//  dodum_iOSApp.swift
+//  dodum-iOS
 //
-//  Created by maple on 8/21/25.
+//  Created by maple on 9/10/25.
 //
 
 import SwiftUI
 
 @main
-struct testApp: App {
+struct dodum_iOSApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

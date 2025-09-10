@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  test
+//  dodum-iOS
 //
-//  Created by maple on 8/21/25.
+//  Created by maple on 9/10/25.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, 찬우!")
+            Text("Hello, world!")
         }
         .padding()
     }
