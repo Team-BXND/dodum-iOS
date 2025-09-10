@@ -11,9 +11,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F5650C782E718EB50056EF0B /* dodum-iOS */ = {
+		F5650C782E718EB50056EF0B /* Source */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "dodum-iOS";
+			path = Source;
+			sourceTree = "<group>";
+		};
+		F5650D402E718F530056EF0B /* Resource */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +37,8 @@
 		F5650C6D2E718EB50056EF0B = {
 			isa = PBXGroup;
 			children = (
-				F5650C782E718EB50056EF0B /* dodum-iOS */,
+				F5650D402E718F530056EF0B /* Resource */,
+				F5650C782E718EB50056EF0B /* Source */,
 				F5650C772E718EB50056EF0B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +67,8 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F5650C782E718EB50056EF0B /* dodum-iOS */,
+				F5650C782E718EB50056EF0B /* Source */,
+				F5650D402E718F530056EF0B /* Resource */,
 			);
 			name = "dodum-iOS";
 			packageProductDependencies = (
